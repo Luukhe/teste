@@ -5,18 +5,4 @@ aprendendo git e github
 
 mudança remota
 
-
-
-
-mudança local
-
-
-segunda mudança local
-
-
-terceira mudança local
-
-
-quarta mudança local
-
 mudança teste
